@@ -11,6 +11,21 @@ You can choose one of these tools where the parameter `MFn` defines.
 
 # Installation
 
+## Install ffmpeg
+
+**IMPORTANT**
+You must install ffmpeg before any operation below!
+After installation of ffmpeg, please make sure that the command `ffmpeg` has been added to global environment by this command in command line:
+```
+ffmpeg -version
+```
+
+[How to Install FFmpeg?](https://www.onelib.biz/blog/a/595e0dcf3c421d080ecaceec)
+
+---
+
+## Install fluent-ffmpeg
+
 To use fluent-ffmpeg, you need to install it first:
 
 ```
