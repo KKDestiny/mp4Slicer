@@ -45,6 +45,6 @@ node start
 
 and you will find sliced files and `.m3u8` file in `/slice/xxxxx/`
 
-![example.png](https://www.onelib.biz\upload\20170707163841611.png)
+![example.png](https://raw.githubusercontent.com/KKDestiny/mp4Slicer/master/sliced.jpg)
 
 
