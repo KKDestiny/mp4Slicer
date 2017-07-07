@@ -14,6 +14,7 @@ You can choose one of these tools where the parameter `MFn` defines.
 ## Install ffmpeg
 
 **IMPORTANT**
+
 You must install ffmpeg before any operation below!
 After installation of ffmpeg, please make sure that the command `ffmpeg` has been added to global environment by this command in command line:
 ```
@@ -44,6 +45,6 @@ node start
 
 and you will find sliced files and `.m3u8` file in `/slice/xxxxx/`
 
-
+![example.png](https://www.onelib.biz\upload\20170707163841611.png)
 
 
