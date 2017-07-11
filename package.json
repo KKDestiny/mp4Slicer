@@ -1,0 +1,12 @@
+{
+  "name": "Mp4Slicer",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node start"
+  },
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "archiver": "^2.0.0"
+  }
+}

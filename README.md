@@ -48,3 +48,26 @@ and you will find sliced files and `.m3u8` file in `/slice/xxxxx/`
 ![example.png](https://raw.githubusercontent.com/KKDestiny/mp4Slicer/master/sliced.jpg)
 
 
+---
+
+# Package
+
+Add @2017.07.11
+
+I add a new function that pack all sliced files into a `.zip` file.
+
+This function use a module named `archiver`
+
+```
+npm install archiver --save
+```
+
+
+
+
+
+
+
+
+
+
